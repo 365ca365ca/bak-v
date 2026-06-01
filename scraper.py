@@ -21,6 +21,9 @@ SOURCE_URLS = [
     "https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
     "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
     "https://sub.proxygo.org/v2ray.php?key=191c91f624a800e83942463fd667bba5",
+    "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
+    "https://app.sublink.works/x/ZrVEXNV",
     "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt" 
 ]
 
